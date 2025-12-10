@@ -1,0 +1,29 @@
+APIs:
+- [x] get categories
+- [x] add categories
+- [x] delete categories
+- [ ] get recommendations
+- [ ] get products by categories
+- [ ] get current discounts
+- [ ] save addresses
+- [ ] add address
+- [ ] add/delete favourites
+- [ ] shopping cart
+- [ ] fetch product details
+- [ ] get orders
+- [ ] place order
+- [ ] update profile
+- [ ] get profile details
+- [ ] authentication (login/signup) - [use prebuild clerk or kinde?]
+
+APP:
+- [ ] connect apis
+- [ ] splash screen
+- [ ] add badges to notification icons
+- [ ] add badges to bag icons in navbar
+- [ ] add notification list screen
+- [ ] add search functionality
+- [ ] add favourites screen + button to access the favourites screen
+- [ ] all products screen
+- [ ] in the cart, if the user wants to see the product details screen, we need to add navigation to product details screen from cart screen for the product tapped on.
+- [ ] add verify phone button in profile screen if phone number is not verified
